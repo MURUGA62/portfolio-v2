@@ -1,0 +1,58 @@
+.hero-section {
+  background-color: rgb(77, 255, 0);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+.profile-image {
+  display: flex;
+  height: 100px;
+  width: 100px;
+  justify-content: space-around;
+  margin-right: 300px;
+}
+
+.cloud-1 {
+  display: flex;
+  justify-content: space-around;
+  width: 200px;
+  margin-left: 150px;
+}
+
+.cloud-2 {
+  display: flex;
+  justify-content: space-around;
+  width: 200px;
+  margin-right: 430px;
+}
+
+.navbar {
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+
+
+}
+.profile-image
+{
+  display:flex;
+  justify-content:space-around;
+  align-items: center;
+  margin-left: 300px;
+}
+
+.Part-2{
+  width: 300px;
+  
+}
+.
+
+
+}
